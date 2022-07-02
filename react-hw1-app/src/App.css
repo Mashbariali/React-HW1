@@ -1,0 +1,21 @@
+.App{
+  
+  
+  text-align: center;
+  color: #15529d;
+  flex-direction: column;
+  justify-content: space-around;
+  
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
+ 
+}
+
+.cont{
+  margin: 100px;
+  border-style:ridge;
+  border-color: #15529d;
+  text-align: center;
+  color: #15529d;
+
+}
